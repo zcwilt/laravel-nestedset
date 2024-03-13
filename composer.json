@@ -28,7 +28,6 @@
         "phpunit/phpunit": "7.*|8.*|9.*"
     },
 
-    "minimum-stability": "dev",
     "prefer-stable": true,
 
     "extra": {
